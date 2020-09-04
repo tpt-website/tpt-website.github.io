@@ -1,0 +1,9 @@
+Package: com.rkycyku.redinblack-beta
+Name: Red in Black (Beta)
+Version: 1.0~beta4
+Section: Themes
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Author: Rilind Kyçyku <r.kycyku.12@gmail.com>
+Maintainer: Rilind Kyçyku <r.kycyku.12@gmail.com>
+Description: Red in Black is a Theme
