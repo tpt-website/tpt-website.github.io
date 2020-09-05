@@ -1,8 +1,8 @@
-Origin: TripinMONEY/sudo-apt-install-tor's Repo
-Label: TripinMONEY/sudo-apt-install-tor 
+Origin: TripinMONEY's Repo
+Label: TripinMONEY's Repo
 Suite: stable
-Version: 1.1
-Codename: TripinMONEY/sudo-apt-install-tor
+Version: 1.0
+Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: This is my repo.
+Description: TripinMONEY's Repo.
