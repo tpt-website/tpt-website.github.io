@@ -16,4 +16,4 @@ currently being supported with security updates.
 
 Where to contact me if you find a Vulnerability and Vulnerability Fix.
 
-Contact: empty (coming soon)
+## Contact: empty (Coming Soon)
