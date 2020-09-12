@@ -9,11 +9,11 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :white_check_mark: |
-| 4.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability?
 
-Where to contact me if you find a Vulnerability and Vulnerability Fix.
+## Where to contact me if you find a Vulnerability and Vulnerability Fix.
 
-## Contact: empty (Coming Soon)
+Contact: empty (Coming Soon)
