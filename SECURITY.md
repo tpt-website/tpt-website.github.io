@@ -1,17 +1,12 @@
 # Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 ## Reporting a Vulnerability?
+Where to contact me if you find a Vulnerability and Vulnerability Fix.
 
-## Where to contact me if you find a Vulnerability and Vulnerability Fix.
+## Contact: 
+empty@empty.com (Coming Soon)
 
-## Contact: empty@empty.com (Coming Soon)
-
-**Vulnerabilitys List**
+## Vulnerabilitys List
 
 --- Vulnerability0 ---
 
