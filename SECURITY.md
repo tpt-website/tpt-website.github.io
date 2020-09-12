@@ -16,7 +16,7 @@ empty@empty.com (Coming Soon)
 It gives you access to get the password, to access **"About_Me_Page-Login.html, Other_Important_Stuff_Page-Login.html, Videos_Page-Login.html and Pictures_Page-Login.html".** 
 
 ### Patches
-The vulnerability is not patched. You should not be scared, you should abuse it (lol). If you see this as a threat to you, then you should access the site with Tor Browser (https://www.torproject.org/download/) **(Tor Browser is also OPEN SOURCED** (https://www.torproject.org/download/tor/)**.**
+The vulnerability is not patched. You should not be scared, you should abuse it (lol). If you see this as a threat, then you should access the site with Tor Browser (https://www.torproject.org/download/) **(Tor Browser is also OPEN SOURCED** (https://www.torproject.org/download/tor/)**.**
 
 ### Workarounds
 Access the site with Tor Browser (https://www.torproject.org/download/) **(Tor Browser is also OPEN SOURCED** (https://www.torproject.org/download/tor/)**.** if you feel like it will affect you in any way. 
