@@ -4,7 +4,7 @@
 Where to contact me if you find a Vulnerability and Vulnerability Fix.
 
 ## Contact: 
-Email: tpt-website@danwin1210.me
+Email: N/A
 
 ## Vulnerabilitys List
 
@@ -25,7 +25,6 @@ Access the site with Tor Browser (https://www.torproject.org/download/) **(Tor B
 The Vulnerability In Action (Video): (https://tpt-website.github.io/vulnerabilitys-found/Vulnerability0.mp4)
 
 ### Contact: 
-Email: tpt-website@danwin1210.me
-
+Email: N/A
 
 
